@@ -21,6 +21,8 @@ A listing of online blockchain conferences and events in 2020, with a focus on D
 
 7th - 8th May: *Ethereal Virtual Summit 2020* by ConsenSys : Registration TBC : Free ticket : https://www.etherealsummit.com/
 
+### June 2020
+
 24th - 26th June: *Remote Crypto Con* : Registration TBC : Ticket Price $0 - 98 : https://remote-crypto-con.heysummit.com/#
 
 
