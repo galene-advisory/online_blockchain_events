@@ -32,6 +32,8 @@ A listing of online and remote blockchain conferences and events in 2020
 
 18th Feb - 22nd April : *Blockchain for Social Impact Coalition - Dezentralized Imapct Incubator* : https://blockchainforsocialimpact.com/incubator/
 
+1 - 30 April: *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
+
 24 - 26 April : *ETHTurin Hackaton* : https://ethturin.com/
 
 Dates TBC: ETH Online : https://ethglobal.online/
