@@ -2,6 +2,8 @@
 
 A listing of online and remote blockchain conferences and events in 2020
 
+Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/online_blockchain_events/blob/master/licence_and_terms.md)
+
 
 ## 1. Remote Conferences
 
@@ -10,6 +12,8 @@ A listing of online and remote blockchain conferences and events in 2020
 13th March : *InterCon* by MetaCartel : Free ticket : Registration Open: Free ticket : https://medium.com/@pethereum/sure-the-future-is-remote-and-virtual-conferences-will-be-a-thing-but-we-arent-doing-this-just-bd0eaef8132d
 
 18th March : *The Current State & Future Outlook For DAOs Conference Call* by Crypto Oracle: Registration Open: Free ticket : https://medium.com/crypto-oracle/the-current-state-future-outlook-for-daos-conference-call-march-18th-1pm-2pm-est-8f05fda91d16
+
+30th March: *Digital #DeFi Meetup* by Monolith Meets: Registration Open : Free Ticket : https://www.meetup.com/monolith/events/269605712/?rv=wm1&_xtd=gatlbWFpbF9jbGlja9oAJDVmODI3MmNhLTI4YzUtNGYwNS04ZjczLTg3NzRhMWRiYmE0Nw
 
 ### April 2020
 
