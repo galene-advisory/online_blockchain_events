@@ -5,7 +5,7 @@ A listing of online and remote blockchain conferences and events in 2020
 Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/online_blockchain_events/blob/master/licence_and_terms.md)
 
 
-## 1. Remote Conferences
+## 1. Remote Conferences & Webinars
 
 ### March 2020
 
@@ -17,15 +17,17 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ### April 2020
 
-3-6 April : *NonCon 2020* by Parallele Polis: Registration Open : Ticket Price/Donation TBC: https://noncon.org/ 
+3rd - 5th April : *NonCon 2020* by Parallele Polis : Registration Open : Ticket Price/Donation Free: https://noncon.org/ 
+
+21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html
 
 ### May 2020
 
-1st - 2nd May : *DeFi Discussions* by Dystopia Labs: Registration Open: Free ticket : https://defi-discussions.dystopialabs.com/
+1st - 3rd May : *DeFi Discussions* by Dystopia Labs : Registration Open: Free ticket : https://defi-discussions.dystopialabs.com/
 
-7th - 8th May : *Ethereal Virtual Summit 2020* by ConsenSys : Registration TBC : Free ticket : https://www.etherealsummit.com/
+7th - 8th May : *Ethereal Virtual Summit 2020* by ConsenSys : Registration Open : Free ticket : https://www.etherealsummit.com/
 
-11th - 13th May : *Consensus* by CoinDesk: Registration TBC (only announced that will be virtual) : https://www.coindesk.com/coindesk-takes-consensus-2020-virtual
+11th - 13th May : *Consensus: Distributed* by CoinDesk: Registration TBC (only announced that will be virtual) : https://www.coindesk.com/coindesk-takes-consensus-2020-virtual
 
 ### June 2020
 
@@ -36,10 +38,10 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 18th Feb - 22nd April : *Blockchain for Social Impact Coalition - Dezentralized Imapct Incubator* : https://blockchainforsocialimpact.com/incubator/
 
-1 - 30 April: *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
+1st - 30th April : *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
 
-24 - 26 April : *ETHTurin Hackaton* : https://ethturin.com/
+24th - 26th April : *ETHTurin Hackaton* : https://ethturin.com/
 
-Dates TBC: ETH Online : https://ethglobal.online/
+"Mid April" : *HackMoney* by ETHGlobal : https://ethglobal.online/
 
 
