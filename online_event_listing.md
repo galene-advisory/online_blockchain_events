@@ -44,7 +44,7 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 1st - 30th April : *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
 
-24th - 26th April : *ETHTurin Hackaton* : https://ethturin.com/
+24th - 26th April : *ETHTurin Hackathon* : https://ethturin.com/
 
 "Mid April" : *HackMoney* by ETHGlobal : https://ethglobal.online/
 
