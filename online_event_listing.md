@@ -21,6 +21,8 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html
 
+28th April : *sub0 Substrate Developers Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io
+
 ### May 2020
 
 1st - 3rd May : *DeFi Discussions* by Dystopia Labs : Registration Open: Free ticket : https://defi-discussions.dystopialabs.com/
@@ -28,6 +30,8 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 7th - 8th May : *Ethereal Virtual Summit 2020* by ConsenSys : Registration Open : Free ticket : https://www.etherealsummit.com/
 
 11th - 13th May : *Consensus: Distributed* by CoinDesk: Registration TBC (only announced that will be virtual) : https://www.coindesk.com/coindesk-takes-consensus-2020-virtual
+
+14th - 16th May : *BlockConf Digitial* by FAS : Registration Open: Ticket Price 0 - 50 : https://www.blockconf.digital
 
 ### June 2020
 
