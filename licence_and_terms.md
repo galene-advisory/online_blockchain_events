@@ -22,7 +22,9 @@ Under the following terms:
     
     ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
     
-    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.    
+    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Under the full terms and conditions of the CC BY-NC-SA 4.0 License can be found in the copy of the licence linked above.
 
 
 # TERMS OF USE
