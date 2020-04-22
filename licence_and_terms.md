@@ -2,13 +2,13 @@
 
 All original work in this repository is Copyright (c) 2020 Galene Advisory Sàrl
 
-# LICENCE
+# LICENSE
 
 All original work in this repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. 
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-As described at the link above this licence means that you may:
+As described at the link above this license means that you may:
 
     Share — copy and redistribute the material in any medium or format
    
@@ -24,7 +24,7 @@ Under the following terms:
     
     No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-The full terms and conditions of the CC BY-NC-SA 4.0 License can be found in the copy of the licence linked above - note that the licence includes a complete disclaimer of warranty and liability.
+The full terms and conditions of the CC BY-NC-SA 4.0 License can be found in the copy of the license linked above - note that the license includes a complete disclaimer of warranty and a complete limitation of liability in Section 5 of the license.
 
 
 # TERMS OF USE
@@ -35,8 +35,8 @@ IN NO EVENT SHALL THE AUTHORS, REPOSITORY OWNERS OR COPYRIGHT OWNERS BE LIABLE F
 
 USE OF ANY LINKS TO THIRD PARTY SITES IS AT THE USER'S OWN RISK - NO CHECKS HAVE BEEN PERFORMED ON THE SECURITY OF ANY THIRD PARTY LINKS, NOR THE CONTENT OF THE THIRD PARTY SITES THAT ARE LINKED TO. THE USE OF ANY THIRD PARTY SITE IS UNDER THE TERMS AND PRIVACY POLICY OF THE RESPECTIVE THIRD PARTY SITE. THE AUTHORS, REPOSITORY OWNERS OR COPYRIGHT OWNERS HAVE NO LIABILITY WHATSOEVER IN RELATION TO THIRD PARTY LINKS AND SITES. 
 
-ADDITIONAL TERMS AND CONDITIONS, INCLUDING DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY, ARE INCLUDED WITHIN THE CC BY-NC-SA 4.0 LICENCE DESCRIBED ABOVE. IN THE EVENT OF A CONFLICT BETWEEN THE TERMS IN THIS FILE AND THE CC BY-NC-SA 4.0 LICENCE, THE TERMS OF THE CC BY-NC-SA 4.0 LICENCE SHALL PREVAIL. 
+ADDITIONAL TERMS AND CONDITIONS, INCLUDING DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY, ARE INCLUDED WITHIN THE CC BY-NC-SA 4.0 LICENSE DESCRIBED ABOVE. IN THE EVENT OF A CONFLICT BETWEEN THE TERMS IN THIS FILE AND THE CC BY-NC-SA 4.0 LICENSE, THE TERMS OF THE CC BY-NC-SA 4.0 LICENCE SHALL PREVAIL. 
 
-BY USING THE SOFTWARE, DOCUMENTATION OR OTHER CONTENTS WITHIN THIS REPOSITORY THE USER AGREES TO THE LICENCE AND THESE TERMS OF USE. 
+BY USING THE SOFTWARE, DOCUMENTATION OR OTHER CONTENTS WITHIN THIS REPOSITORY THE USER AGREES TO THE LICENSE AND THESE TERMS OF USE. 
 
 
