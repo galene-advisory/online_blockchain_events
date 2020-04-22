@@ -25,7 +25,9 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ### May 2020
 
-1st - 3rd May : *DeFi Discussions* by Dystopia Labs : Registration Open: Free ticket : https://defi-discussions.dystopialabs.com/
+1st - 3rd May : *DeFi Discussions* by Dystopia Labs : Registration Open : Free ticket : https://defi-discussions.dystopialabs.com/
+
+4th - 6th May : *Ready Layer One* by Cosmos, NEAR, Polkadot, Protocol Labs, and Tezos : Registration Open but restricted by application : Free ticket : https://readylayer.one/
 
 7th - 8th May : *Ethereal Virtual Summit 2020* by ConsenSys : Registration Open : Free ticket : https://www.etherealsummit.com/
 
