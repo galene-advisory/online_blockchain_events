@@ -33,9 +33,11 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 7th - 8th May : *Ethereal Virtual Summit 2020* by ConsenSys : Registration Open : Free ticket : https://www.etherealsummit.com/
 
-11th - 13th May : *Consensus: Distributed* by CoinDesk: Registration TBC (only announced that will be virtual) : https://www.coindesk.com/coindesk-takes-consensus-2020-virtual
+11th - 15th May : *Consensus: Distributed* by CoinDesk: Registration TBC (only announced that will be virtual) : https://www.coindesk.com/coindesk-takes-consensus-2020-virtual
 
 14th - 16th May : *BlockConf Digitial* by FAS : Registration Open: Ticket Price 0 - 50 : https://www.blockconf.digital
+
+28th - 29th May: *BlockDown 2020* by EAK Digital : Registration Open: Ticket Price 0 - 55 : https://blockdownconf.com/
 
 ### June 2020
 
@@ -48,8 +50,10 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 1st - 30th April : *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
 
+20th April - 11th May: *Cross-Chain Hackathon* by Cosmos : https://gitcoin.co/hackathon/cross-chain/
+
 24th - 26th April : *ETHTurin Hackathon* : https://ethturin.com/
 
 Starting 24th April : *HackMoney* by ETHGlobal : https://ethglobal.online/
 
-
+6th - 20th May : *New York Blockchain Week Virtual Hackathon* : https://gitcoin.co/hackathon/new-york-blockchain-week/
