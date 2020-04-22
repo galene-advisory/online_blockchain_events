@@ -21,7 +21,7 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html
 
-28th April : *sub0 Substrate Developers Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io
+28th April : *sub0 Substrate Developer Community Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io
 
 ### May 2020
 
@@ -46,6 +46,6 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 24th - 26th April : *ETHTurin Hackathon* : https://ethturin.com/
 
-"Mid April" : *HackMoney* by ETHGlobal : https://ethglobal.online/
+Starting 24th April : *HackMoney* by ETHGlobal : https://ethglobal.online/
 
 
