@@ -19,11 +19,11 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ~~3rd - 5th April : *NonCon 2020* by Parallele Polis : Registration Open : Ticket Price/Donation Free: https://noncon.org/~~
 
-21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html
+~~21st - 23rd April : *EY Global Blockchain Summit* by EY : Registration TBC : Ticket Price/Donation Free: https://pub.ey.com/public/2019/1911/1911-3312324/global-blockchain-summit/home.html~~
 
-28th April : *sub0 Substrate Developer Community Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io
+~~28th April : *sub0 Substrate Developer Community Conference* by Parity : Registration Open : Free ticket : https://sub0.parity.io~~
 
-29th -30th April : *Solidity Summit* by Solidity / Ethereum Foundation : Registration Open but requires application : Free ticket : https://solidity-summit.ethereum.org/
+~~29th -30th April : *Solidity Summit* by Solidity / Ethereum Foundation : Registration Open but requires application : Free ticket : https://solidity-summit.ethereum.org/~~
 
 ### May 2020
 
@@ -50,7 +50,7 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 ~~18th Feb - 22nd April : *Blockchain for Social Impact Coalition - Dezentralized Imapct Incubator* : https://blockchainforsocialimpact.com/incubator/~~
 
-1st - 30th April : *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org
+~~1st - 30th April : *Dragon Quest* by MetaCartel : https://hackathon.metacartel.org~~
 
 20th April - 11th May: *Cross-Chain Hackathon* by Cosmos : https://gitcoin.co/hackathon/cross-chain/
 
