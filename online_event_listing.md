@@ -37,6 +37,8 @@ Provided under the following [licence and terms](https://github.com/g-a-l-e-n-e/
 
 14th - 16th May : *BlockConf Digitial* by FAS : Registration Open: Ticket Price 0 - 50 : https://www.blockconf.digital
 
+28th May : *Diffusion Digital* by Outlier Ventures : Registration Open: Free ticket : https://diffusion.events
+
 28th - 29th May: *BlockDown 2020* by EAK Digital : Registration Open: Ticket Price 0 - 55 : https://blockdownconf.com/
 
 ### June 2020
